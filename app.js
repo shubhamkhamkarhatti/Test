@@ -10,5 +10,6 @@ function test1(days) {
 }
 
 console.log("Before pulling")
+// before pulling
 
 test1(days)
