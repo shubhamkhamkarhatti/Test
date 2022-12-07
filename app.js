@@ -8,7 +8,7 @@ function test1(days) {
         if (j == "4") break
     }
 }
-
+// this is comment
 console.log("Before pulling")
 
 test1(days)
