@@ -7,6 +7,7 @@ function test1(days) {
         console.log("Function completed..")
         if (j == "4") break
     }
+    console.log("Added something...")
 }
 
 test1(days)
