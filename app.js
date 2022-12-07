@@ -4,7 +4,7 @@ function test1(days) {
         for (let i of days) {
             console.log(i)
         }
-        if (j == "2") break
+        if (j == "4") break
     }
     console.log("Function completed..")
 }
